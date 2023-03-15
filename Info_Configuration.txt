@@ -1,0 +1,9 @@
+Labels were manually marked. There are some warnings during running, but this does not impact on results.
+
+environment setting:
+  It can be performed on Linux system or Window 11, but please use Linux sytem
+
+tensorflow version >1.14
+torch version >1.13
+python version >3.7.6
+
